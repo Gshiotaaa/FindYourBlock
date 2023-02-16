@@ -1,0 +1,58 @@
+{
+  "blocks": [
+    {
+      "name": "O Python do vovô não sobe mais",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "locale": "São Paulo - SP",
+      "photo": "src/assets/blocks/blockPython.png"
+    },
+    {
+      "name": "Todo mundo null",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "locale": "Florianópolis - SC",
+      "photo": "src/assets/blocks/blockTodoMundoNull.png"
+    },
+    {
+      "name": "Hoje dou exception",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "locale": "Curitiba - PR",
+      "photo": "src/assets/blocks/blockHojeDouException.png"
+    },
+    {
+      "name": "Manda Node",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "locale": "Salvador - BA",
+      "photo": "src/assets/blocks/blockMandaNode.png"
+    },
+    {
+      "name": "Só no back-end",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "locale": "São Paulo - SP",
+      "photo": "src/assets/blocks/blockSoNoBackEnd.png"
+    },
+    {
+      "name": "Esse anel não é de Ruby",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "locale": "São Paulo - SP",
+      "photo": "src/assets/blocks/blockEsseAnelNaoEDeRuby.png"
+    },
+    {
+      "name": "Pimenta no C# dos outros é refresco",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "locale": "Rio de Janeiro - RJ",
+      "photo": "src/assets/blocks/blockPimentaNoCDosOutrosERefresco.png"
+    },
+    {
+      "name": "EnCACHE aqui",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "locale": "Porto Alegre - RS",
+      "photo": "src/assets/blocks/blockEnCacheAqui.png"
+    },
+    {
+      "name": "Não valho nada mas JAVA li",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "locale": "São Paulo - SP",
+      "photo": "src/assets/blocks/blockNaoValhoNadaMasJavaLi.png"
+    }
+  ]
+}
